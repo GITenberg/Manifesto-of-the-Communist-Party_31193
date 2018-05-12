@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Engels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31193#Manifesto-of-the-Communist-Party
 gutenberg_issued: '2010-02-05'
 gutenberg_type: Text
 identifiers:
